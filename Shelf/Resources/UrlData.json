@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "url": "https://example.com/page1",
+        "name": "YouTube",
+        "group": "Group A",
+        "description": "This is the first example page.",
+        "favico": "https://developer.apple.com/favicon.ico"
+    },
+    {
+        "id": 2,
+        "url": "https://example.com/page2",
+        "name": "Twitter",
+        "group": "Group B",
+        "description": "This is the second example page.",
+        "favico": "https://developer.apple.com/favicon.ico"
+    },
+    {
+        "id": 3,
+        "url": "https://example.com/page3",
+        "name": "Tesla",
+        "group": "Group A",
+        "description": "This is the third example page.",
+        "favico": "https://developer.apple.com/favicon.ico"
+    }
+]
+ 
+
