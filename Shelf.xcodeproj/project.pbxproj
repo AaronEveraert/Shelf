@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93B2B9BB2B47800F00E82B03 /* UrlGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B2B9BA2B47800F00E82B03 /* UrlGridView.swift */; };
 		93D85D6C2B3CB94A00DE80C9 /* ShelfApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93D85D6B2B3CB94A00DE80C9 /* ShelfApp.swift */; };
 		93D85D6E2B3CB94A00DE80C9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93D85D6D2B3CB94A00DE80C9 /* ContentView.swift */; };
 		93D85D702B3CB94B00DE80C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93D85D6F2B3CB94B00DE80C9 /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		93B2B9BA2B47800F00E82B03 /* UrlGridView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UrlGridView.swift; sourceTree = "<group>"; };
 		93D85D682B3CB94A00DE80C9 /* Shelf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shelf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93D85D6B2B3CB94A00DE80C9 /* ShelfApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShelfApp.swift; sourceTree = "<group>"; };
 		93D85D6D2B3CB94A00DE80C9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 		93D85D962B3CBEBF00DE80C9 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				93B2B9BA2B47800F00E82B03 /* UrlGridView.swift */,
 				93D85D6D2B3CB94A00DE80C9 /* ContentView.swift */,
 				93D85DA52B3CD26600DE80C9 /* UrlRowView.swift */,
 				93D85DAC2B3CE3FD00DE80C9 /* DetailUrlView.swift */,
@@ -310,6 +313,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93B2B9BB2B47800F00E82B03 /* UrlGridView.swift in Sources */,
 				93D85DA62B3CD26600DE80C9 /* UrlRowView.swift in Sources */,
 				93D85D6E2B3CB94A00DE80C9 /* ContentView.swift in Sources */,
 				93D85DA32B3CD1C600DE80C9 /* ModelData.swift in Sources */,
